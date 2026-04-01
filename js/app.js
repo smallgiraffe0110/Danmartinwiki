@@ -42,6 +42,48 @@ const wikiEntries = [
     url: "pages/dan-martin-governor.html",
     snippet: "20th Governor of Maryland, serving 1829-1830 and 1831. His home 'The Wilderness' is on the National Register.",
     keywords: "governor maryland politician house delegates wilderness national register historical 1780 1831"
+  },
+  {
+    title: "Dan Martin (admiral)",
+    url: "pages/dan-martin-admiral.html",
+    snippet: "U.S. Navy Rear Admiral and former Blue Angels pilot with 4,600+ flight hours.",
+    keywords: "admiral navy rear admiral blue angels pilot military carrier strike group naval aviator"
+  },
+  {
+    title: "Dan Martin (cartoonist)",
+    url: "pages/dan-martin-cartoonist.html",
+    snippet: "Artist of the Weatherbird, the longest-running daily cartoon in any American newspaper, since 1986.",
+    keywords: "cartoonist weatherbird st louis post-dispatch illustrator cartoon newspaper"
+  },
+  {
+    title: "Dan Martin (drama educator)",
+    url: "pages/dan-martin-drama-educator.html",
+    snippet: "Dean of College of Fine Arts at Carnegie Mellon University. Co-founded the Tony Awards theatre education prize.",
+    keywords: "drama educator carnegie mellon tony awards theatre arts management dean professor"
+  },
+  {
+    title: "Dan Martin (football coach)",
+    url: "pages/dan-martin-football-coach.html",
+    snippet: "Early 1900s college football head coach at Ole Miss (1902) and Mississippi A&M (1903-1906).",
+    keywords: "football coach ole miss mississippi state college sports sec historical"
+  },
+  {
+    title: "Dan Martin (physician)",
+    url: "pages/dan-martin-physician.html",
+    snippet: "Endometriosis researcher with 66 publications and 7,150+ citations. Medical Director of Endometriosis Foundation of America.",
+    keywords: "physician doctor md endometriosis medical researcher johns hopkins tennessee"
+  },
+  {
+    title: "Dan Martin (scholar)",
+    url: "pages/dan-martin-scholar.html",
+    snippet: "Tibetan studies scholar with 50+ publications. Author of Tibetan Histories, a leading reference work.",
+    keywords: "scholar tibetan studies buddhism bon indiana university academic professor historian"
+  },
+  {
+    title: "Dan Martin (SFX artist)",
+    url: "pages/dan-martin-sfx-artist.html",
+    snippet: "British practical effects artist known for The Banshees of Inisherin, Possessor, and Infinity Pool.",
+    keywords: "sfx special effects practical effects prosthetics horror film banshees inisherin possessor cronenberg"
   }
 ];
 
