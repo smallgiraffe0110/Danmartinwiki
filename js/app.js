@@ -8,10 +8,16 @@ const wikiEntries = [
     keywords: "cyclist cycling tour de france giro vuelta road racing bicycle ireland spain"
   },
   {
+    title: "Dan Martin (actor)",
+    url: "pages/dan-martin-actor.html",
+    snippet: "American actor known for The Bold and the Beautiful and Heat (1995). Born Jacob Daniel Martin.",
+    keywords: "actor bold beautiful heat television film hollywood ella joyce naacp"
+  },
+  {
     title: "Dan Martin (teacher)",
     url: "pages/dan-martin-teacher.html",
-    snippet: "Beloved teacher at Saint Xavier High School, known for dedication to education.",
-    keywords: "teacher saint xavier high school education educator school"
+    snippet: "Daniel E. Martin, Ph.D., Theology teacher at St. Xavier High School in Louisville, Kentucky.",
+    keywords: "teacher saint xavier high school education theology louisville kentucky university dayton phd"
   },
   {
     title: "Dan Martin (journalist)",
@@ -29,7 +35,13 @@ const wikiEntries = [
     title: "Dan Martin (politician)",
     url: "pages/dan-martin-politician.html",
     snippet: "Political figures named Dan Martin in U.S. and international politics.",
-    keywords: "politician politics government senator representative congress"
+    keywords: "politician politics government senator representative congress maine"
+  },
+  {
+    title: "Daniel Martin (Governor of Maryland)",
+    url: "pages/dan-martin-governor.html",
+    snippet: "20th Governor of Maryland, serving 1829-1830 and 1831. His home 'The Wilderness' is on the National Register.",
+    keywords: "governor maryland politician house delegates wilderness national register historical 1780 1831"
   }
 ];
 
